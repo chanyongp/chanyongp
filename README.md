@@ -13,6 +13,10 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
+### Problem Solving
+
+[![백준 랭킹](http://mazassumnida.wtf/api/v2/generate_badge?boj=qcd0117)](https://www.acmicpc.net/user/qcd0117)
+
 <!--
 **chanyongp/chanyongp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
