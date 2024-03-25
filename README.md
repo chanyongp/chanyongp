@@ -24,6 +24,13 @@
 
 [![백준 랭킹](http://mazassumnida.wtf/api/v2/generate_badge?boj=qcd0117)](https://www.acmicpc.net/user/qcd0117)
 
+---
+
+### Contacts
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/찬용-박-338795282/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](chanyong0117@gmail.com)
+<br/>
+
 <!--
 **chanyongp/chanyongp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
