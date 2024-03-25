@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Chanyong Park!
+### Hello 👋 I'm Chanyong Park!
 - POSTECH Undergraduate Student
 - Interested in ML/DL
 - Member of @[PoApper](https://poapper.club/)
